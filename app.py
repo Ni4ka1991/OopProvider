@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from os import system
-from NumberProvider import *
+from np import *
 
 def positiveAction( number ):
     print( "Got an positive number >>> ", number )
